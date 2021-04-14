@@ -1,0 +1,1 @@
+bash compile_all.sh "/usr/miniconda3/envs/3dssd/lib/python3.6/site-packages/tensorflow/" /usr/local/cuda-11.1/
